@@ -4,4 +4,6 @@
 #### E de quebra, na jornada, aprendi um pouco sobre expressões regulares, as famosas (regex). rs
 
 Algumas menções honrosas: 
-Ao meu professor, Sr Ledon, que nos deu um bom direcionamento e aos canais "dicadedev" (Felipe Rocha) e "Além do Código" pela excelente didática.
+Ao meu professor, Sr Ledon, que nos deu um bom direcionamento e aos canais "dicasparadev" (Felipe Rocha) e "Além do Código" pela excelente didática.
+
+Clique aqui para ver o resultado [https://felipecesargm.github.io/validacao-formulario/]
