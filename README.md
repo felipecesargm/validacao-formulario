@@ -7,3 +7,16 @@ Algumas menções honrosas:
 Ao meu professor, Sr Ledon, que nos deu um bom direcionamento e aos canais "dicasparadev" (Felipe Rocha) e "Além do Código" pela excelente didática.
 
 [Veja o resultado clicando aqui](https://felipecesargm.github.io/validacao-formulario/)
+
+<br>
+
+![image](https://user-images.githubusercontent.com/101780645/194620449-380d7eb6-d805-4a11-bf39-8f167d22596a.png)
+
+<br>
+
+![image](https://user-images.githubusercontent.com/101780645/194620625-bd522d26-a7d1-4fb3-bb5d-b0b37c992308.png)
+
+<br>
+
+![image](https://user-images.githubusercontent.com/101780645/194620838-ebfa91de-a747-4c5f-ab88-c02cb2464f5e.png)
+
