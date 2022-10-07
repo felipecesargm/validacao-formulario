@@ -6,4 +6,4 @@
 Algumas menções honrosas: 
 Ao meu professor, Sr Ledon, que nos deu um bom direcionamento e aos canais "dicasparadev" (Felipe Rocha) e "Além do Código" pela excelente didática.
 
-Clique aqui para ver o resultado [https://felipecesargm.github.io/validacao-formulario/]
+[Veja o resultado clicando aqui](https://felipecesargm.github.io/validacao-formulario/)
