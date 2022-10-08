@@ -36,7 +36,7 @@ function checkInputs() {
 
     if (passwordValue == "") {
         setErrorFor(password, "A senha é obrigatória.");
-    } else if (passwordValue.legth < 7) {
+    } else if (passwordValue.length < 7) {
         setErrorFor(password, "A senha precisa ter no mínimo 7 caracteres.");
     } else {
         setSuccessFor(password);
